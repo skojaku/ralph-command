@@ -6,7 +6,7 @@ Ralph is an autonomous agent system that iteratively executes user stories from 
 
 Using bash commands: 
 ```bash
-curl -O https://raw.githubusercontent.com/skojaku/ralph-command/refs/heads/main/.claude/commands/create-ralph-command.md && mv create-ralph-command.md .claude/commands
+curl -O https://raw.githubusercontent.com/skojaku/ralph-command/refs/heads/main/.claude/commands/create-ralph-loop.md && mv create-ralph-loop.md .claude/commands
 
 ```
 
