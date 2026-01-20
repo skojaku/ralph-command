@@ -4,6 +4,13 @@ Ralph is an autonomous agent system that iteratively executes user stories from 
 
 ## Install 
 
+Using bash commands: 
+```bash
+curl -O https://raw.githubusercontent.com/skojaku/ralph-command/refs/heads/main/.claude/commands/create-ralph-command.md && mv create-ralph-command.md .claude/commands
+
+```
+
+Manually: 
 Copy & place the `./claude/commands/create-ralph-loop.md` file into your local `./claude/commands/` directory.
 
 
