@@ -37,3 +37,9 @@ curl -O https://raw.githubusercontent.com/skojaku/ralph-command/refs/heads/main/
 
 3. Customize the prompt.md to fit your project needs. You can modify the instructions to better suit your workflow or project requirements. Make sure to keep the structure intact and key instructions (one task at a time, validate outputs, commit changes, etc.)
 
+4. Ask the following questions to the user:
+- Which folder to save the deliverables to (where should the outcome of the ralph loop be placed?)
+- What file types do you want (.py scripts, jupyter notebooks, or something else)?
+- Any other questions you can think of to ceate a loop. 
+
+5. Present the plan before making the file for approval from the user.
