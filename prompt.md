@@ -23,7 +23,7 @@ Use `workspace` for temporary files.
 
 ## File Locations
 
-{table-of-filest }
+{table-of-files}
 
 ## Output Formats
 
